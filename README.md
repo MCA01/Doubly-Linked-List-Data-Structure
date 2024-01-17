@@ -6,7 +6,7 @@ It was an assignment for the Algorithms and Programming lecture.
 
 A class named "Student" has been created to represent students. In the "Student" class, information such as student number, full name, and contact phone numbers are stored. Since a student may have multiple phone numbers (such as multiple mobile phones, home phones, etc.), the information about phone numbers is kept in an "ArrayList." The "Student" class includes three constructor methods (parameterless, with all parameters, and a copy constructor), get/set methods, and a toString method.
 
-In the node ("Node") class I wrote, there are the necessary link fields for a doubly linked list, as well as a variable definition of the type "Student" class.
+In the node class I wrote, there are the necessary link fields for a doubly linked list, as well as a variable definition of the type "Student" class.
 
 ### Methods in the Student Class
 - A method that takes a parameter of type "Student" and adds it to the list in a sorted manner based on the student number.
